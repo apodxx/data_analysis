@@ -1,0 +1,7 @@
+1. numpy 可以高效处理数据 提供数组支持 很多模块都依赖他 例如pandas,scipy,matplotlib都依赖他
+2. pandas 主要用于数据探索和数据分析
+3. matpotlib作图模块，解决可视化问题
+4. scipy主要进行树脂计算，支持矩阵计算，还有很多高等数据处理功能，积分，傅里叶变换，微分方程求解
+5. statsmodels这个模块主要用于统计分析
+6. Gensim这个模块主要用于文本挖掘
+7. sklearn机器学习 keras深度学习
